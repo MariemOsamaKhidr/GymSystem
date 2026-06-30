@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\bin\Debug\net8.0\GymSystem.BLL.deps.json
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\bin\Debug\net8.0\GymSystem.BLL.dll
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\bin\Debug\net8.0\GymSystem.BLL.pdb
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\bin\Debug\net8.0\GymSystem.DAL.dll
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\bin\Debug\net8.0\GymSystem.DAL.pdb
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\GymSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\GymSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\GymSystem.BLL.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\GymSystem.BLL.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\GymSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\GymSyste.C77D1959.Up2Date
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\GymSystem.BLL.dll
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\refint\GymSystem.BLL.dll
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\GymSystem.BLL.pdb
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\ref\GymSystem.BLL.dll
