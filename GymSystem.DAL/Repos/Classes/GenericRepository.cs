@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace GymSystem.DAL.Repos.Classes
 {
-    internal class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEntity : class
+    public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEntity : class
     {
         private readonly GymDBContext gymDBContext;
 

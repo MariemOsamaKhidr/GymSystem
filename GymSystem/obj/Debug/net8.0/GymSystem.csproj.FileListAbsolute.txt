@@ -258,3 +258,4 @@ C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem\bin\Debug\net8.0\GymSyst
 C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem\bin\Debug\net8.0\GymSystem.DAL.dll
 C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem\bin\Debug\net8.0\GymSystem.BLL.pdb
 C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem\bin\Debug\net8.0\GymSystem.DAL.pdb
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem\obj\Debug\net8.0\GymSystem.sourcelink.json

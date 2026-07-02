@@ -1,4 +1,5 @@
 using GymSystem.DAL.Contexts;
+using GymSystem.DAL.Models;
 using GymSystem.DAL.Repos.Classes;
 using GymSystem.DAL.Repos.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -18,7 +19,7 @@ namespace GymSystem
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")); // DefaultConnection is key in appsetting
             });
 
-            builder.Services.AddScoped<IPlanRepository,PlanRepository>();
+            builder.Services.AddScoped<IGenericRepository<PlanRepository>,GenericRepository<PlanRepository>>();
 
             var app = builder.Build();
 

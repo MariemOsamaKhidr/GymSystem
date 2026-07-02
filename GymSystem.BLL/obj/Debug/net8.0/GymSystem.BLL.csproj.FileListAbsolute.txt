@@ -13,3 +13,4 @@ C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\Gym
 C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\refint\GymSystem.BLL.dll
 C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\GymSystem.BLL.pdb
 C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\ref\GymSystem.BLL.dll
+C:\Users\DELL\source\repos\Projects\GymSystem\GymSystem.BLL\obj\Debug\net8.0\GymSystem.BLL.sourcelink.json
