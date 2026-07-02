@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore;
-using GymSystem.DAL.Repos.Classes;
+using GymSystem.DAL.Models;
 
 namespace GymSystem.DAL.Configurations
 {
